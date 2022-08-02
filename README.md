@@ -1,6 +1,6 @@
 # Decay Cava
 
-A decay port for cava by giantman
+A decay port for cava by [tasty-laboratory](https://github.com/tasty-laboratory)
 
 ![cava](./assets/demonstration.png)
 
